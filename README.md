@@ -1,2 +1,2 @@
 # hello-world
-sTART OF SOMETHING
+Start of something
